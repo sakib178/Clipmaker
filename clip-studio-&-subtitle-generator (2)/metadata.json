@@ -1,0 +1,6 @@
+{
+  "name": "Clip Studio & Subtitle Generator",
+  "description": "Create synchronized video clips with automated English and Arabic subtitles, customizable typography, video background editing, manual caption correction, and up to 4K high-FPS export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
